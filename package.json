@@ -1,0 +1,22 @@
+{
+  "name": "practice-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashim222/practice-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hashim222/practice-jest/issues"
+  },
+  "homepage": "https://github.com/hashim222/practice-jest#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
